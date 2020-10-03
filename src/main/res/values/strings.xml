@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yellowdo_library</string>
+    <string name="backkey_message">뒤로 버튼을 한번 더 누르면 종료 됩니다.</string>
+    <string name="please_wait">잠시만 기다려 주세요...</string>
+</resources>
